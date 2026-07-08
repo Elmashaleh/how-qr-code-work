@@ -1,5 +1,7 @@
-[README (1).md](https://github.com/user-attachments/files/29799601/README.1.md)
+[README (2).md](https://github.com/user-attachments/files/29799817/README.2.md)
 # How QR Codes Work — Live Decoder Lab
+
+### 🔗  [see it live](https://elmashaleh.github.io/how-qr-code-work/)
 
 Forget the boring explainer. This one hands you a **real, working QR code** and takes it apart in front of your eyes — scans it, reads its bits live, cracks it open, then rebuilds it back into information, right there on the page.
 
