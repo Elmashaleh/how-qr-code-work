@@ -1,0 +1,1 @@
+# how-qr-code-work
