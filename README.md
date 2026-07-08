@@ -1,4 +1,4 @@
-[README (2).md](https://github.com/user-attachments/files/29799817/README.2.md)
+
 # How QR Codes Work — Live Decoder Lab
 
 ### 🔗  [see it live](https://elmashaleh.github.io/how-qr-code-work/)
